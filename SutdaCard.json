@@ -1,0 +1,142 @@
+[
+    {
+        "name": "1광",
+        "isMoon": true,
+        "isKut": false,
+        "month": 1,
+        "path": "./card_image/1-1.png"
+    },
+    {
+        "name": "1월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 1,
+        "path": "./card_image/1-2.png"
+    },
+    {
+        "name": "2월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 2,
+        "path": "./card_image/2-1.png"
+    },
+    {
+        "name": "2월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 2,
+        "path": "./card_image/2-2.png"
+    },
+    {
+        "name": "3광",
+        "isMoon": true,
+        "isKut": false,
+        "month": 3,
+        "path": "./card_image/3-1.png"
+    },
+    {
+        "name": "3월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 3,
+        "path": "./card_image/3-2.png"
+    },
+    {
+        "name": "4끗",
+        "isMoon": false,
+        "isKut": true,
+        "month": 4,
+        "path": "./card_image/4-1.png"
+    },
+    {
+        "name": "4월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 4,
+        "path": "./card_image/4-2.png"
+    },
+    {
+        "name": "5월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 5,
+        "path": "./card_image/5-1.png"
+    },
+    {
+        "name": "5월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 5,
+        "path": "./card_image/5-2.png"
+    },
+    {
+        "name": "6월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 6,
+        "path": "./card_image/6-1.png"
+    },
+    {
+        "name": "6월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 6,
+        "path": "./card_image/6-2.png"
+    },
+    {
+        "name": "7끗",
+        "isMoon": false,
+        "isKut": true,
+        "month": 7,
+        "path": "./card_image/7-1.png"
+    },
+    {
+        "name": "7월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 7,
+        "path": "./card_image/7-2.png"
+    },
+    {
+        "name": "8광",
+        "isMoon": true,
+        "isKut": false,
+        "month": 8,
+        "path": "./card_image/8-1.png"
+    },
+    {
+        "name": "8월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 8,
+        "path": "./card_image/8-2.png"
+    },
+    {
+        "name": "9끗",
+        "isMoon": false,
+        "isKut": true,
+        "month": 9,
+        "path": "./card_image/9-1.png"
+    },
+    {
+        "name": "9월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 9,
+        "path": "./card_image/9-2.png"
+    },
+    {
+        "name": "10월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 10,
+        "path": "./card_image/10-1.png"
+    },
+    {
+        "name": "10월",
+        "isMoon": false,
+        "isKut": false,
+        "month": 10,
+        "path": "./card_image/10-2.png"
+    }
+]
